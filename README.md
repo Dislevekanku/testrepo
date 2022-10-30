@@ -1,5 +1,5 @@
-# testrepo
+# Data Engineering Projects
 
-## editing the file
+Repository containing portfolio of data Engineering projects completed by me for academic, self learning, and hobby purposes.
 
-its a markdown file in this repository
+## Contents
